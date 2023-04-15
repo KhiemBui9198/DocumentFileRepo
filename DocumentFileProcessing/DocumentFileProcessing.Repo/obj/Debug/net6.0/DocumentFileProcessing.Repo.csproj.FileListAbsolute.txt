@@ -1,0 +1,15 @@
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\bin\Debug\net6.0\DocumentFileProcessing.Repo.exe
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\bin\Debug\net6.0\DocumentFileProcessing.Repo.deps.json
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\bin\Debug\net6.0\DocumentFileProcessing.Repo.runtimeconfig.json
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\bin\Debug\net6.0\DocumentFileProcessing.Repo.dll
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\bin\Debug\net6.0\DocumentFileProcessing.Repo.pdb
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\obj\Debug\net6.0\DocumentFileProcessing.Repo.csproj.AssemblyReference.cache
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\obj\Debug\net6.0\DocumentFileProcessing.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\obj\Debug\net6.0\DocumentFileProcessing.Repo.AssemblyInfoInputs.cache
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\obj\Debug\net6.0\DocumentFileProcessing.Repo.AssemblyInfo.cs
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\obj\Debug\net6.0\DocumentFileProcessing.Repo.csproj.CoreCompileInputs.cache
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\obj\Debug\net6.0\DocumentFileProcessing.Repo.dll
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\obj\Debug\net6.0\refint\DocumentFileProcessing.Repo.dll
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\obj\Debug\net6.0\DocumentFileProcessing.Repo.pdb
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\obj\Debug\net6.0\DocumentFileProcessing.Repo.genruntimeconfig.cache
+C:\KMData\Respositories\PDF\UploadFileToDB\DocumentFileProcessing\DocumentFileProcessing.Repo\obj\Debug\net6.0\ref\DocumentFileProcessing.Repo.dll

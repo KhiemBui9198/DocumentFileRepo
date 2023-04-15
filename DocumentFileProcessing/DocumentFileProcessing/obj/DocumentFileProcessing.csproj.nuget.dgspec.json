@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj": {}
+  },
+  "projects": {
+    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj",
+        "projectName": "DocumentFileProcessing.Data",
+        "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj",
+        "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
+        "outputPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
+        "projectName": "DocumentFileProcessing.DTO",
+        "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
+        "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
+        "outputPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj",
+        "projectName": "DocumentFileProcessing.Repo",
+        "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj",
+        "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
+        "outputPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj",
+        "projectName": "DocumentFileProcessing.Service",
+        "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj",
+        "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
+        "outputPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj",
+        "projectName": "DocumentFileProcessing",
+        "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj",
+        "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
+        "outputPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj": {
+                "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj"
+              },
+              "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj": {
+                "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj"
+              },
+              "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj": {
+                "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj"
+              },
+              "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj": {
+                "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[7.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

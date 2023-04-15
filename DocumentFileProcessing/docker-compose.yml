@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  documentfileprocessing:
+    image: ${DOCKER_REGISTRY-}documentfileprocessing
+    build:
+      context: .
+      dockerfile: DocumentFileProcessing/Dockerfile
