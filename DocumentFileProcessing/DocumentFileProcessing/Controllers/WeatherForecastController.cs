@@ -57,7 +57,7 @@ namespace DocumentFileProcessing.Controllers
                 FilePath = filePath
             };
              var myStream = new FileStream(fileModel.FilePath, FileMode.Open);
-            PdfDocument pdfDocument = new PdfDocument(new PdfReader(myStream), new PdfWriter("C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\FileResult\\Result_" + fileName + ".pdf"));
+            PdfDocument pdfDocument = new PdfDocument(new PdfReader(myStream), new PdfWriter("C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing\\FileResult\\Result_" + fileName + ".pdf"));
             Image imgs = new Image(ImageDataFactory.Create(fileImgModel.Data));
             int n = pdfDocument.GetNumberOfPages();
             for (int i = 1; i <= n; i++)

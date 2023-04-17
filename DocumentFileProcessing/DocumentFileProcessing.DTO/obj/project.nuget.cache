@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dk+lYg/ImRXLzYdDTFaTjXKYSLl1Zpi+6VUYlOt00vEvJHlSktKuNHnHFgtMB/sqN9R836OTObDYn993jutGZA==",
+  "dgSpecHash": "NQiZs2f3z83Hu2mqEWSVZJEi8Et1I4kifoFZN+IWg8clJkAj7O33vMJuHVrsHtworFeH9dXKma4mTMAMKKzAOQ==",
   "success": true,
-  "projectFilePath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
+  "projectFilePath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

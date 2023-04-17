@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MZNff32Egc4Fstslif8Ux8uisza9wAwhAvtFoqidFNTOi3h1R2WxhmamkzmUbbjlQsqLWehj5zM+cqrXE+a2zw==",
+  "dgSpecHash": "fvNw+SLTk/EFbQIu0PvsIpdQnlY19fpxebsc7t4DSHBIKupqkHNHsjrcUufTly5+7S0U6zRXMprmpMFKreHW7Q==",
   "success": true,
-  "projectFilePath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj",
+  "projectFilePath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chikh\\.nuget\\packages\\itext7\\7.2.5\\itext7.7.2.5.nupkg.sha512",
     "C:\\Users\\chikh\\.nuget\\packages\\itext7.commons\\7.2.5\\itext7.commons.7.2.5.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
+      "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
       "projectName": "DocumentFileProcessing.DTO",
-      "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
+      "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
       "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
-      "outputPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\obj\\",
+      "outputPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",

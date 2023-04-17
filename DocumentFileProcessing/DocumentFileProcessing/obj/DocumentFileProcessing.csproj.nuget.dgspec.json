@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj": {}
+    "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj": {}
   },
   "projects": {
-    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj": {
+    "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj",
+        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj",
         "projectName": "DocumentFileProcessing.Data",
-        "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj",
+        "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj",
         "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
-        "outputPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\obj\\",
+        "outputPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj": {
+    "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
+        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
         "projectName": "DocumentFileProcessing.DTO",
-        "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
+        "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj",
         "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
-        "outputPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\obj\\",
+        "outputPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -114,14 +114,14 @@
         }
       }
     },
-    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj": {
+    "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj",
+        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj",
         "projectName": "DocumentFileProcessing.Repo",
-        "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj",
+        "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj",
         "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
-        "outputPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\obj\\",
+        "outputPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -169,14 +169,14 @@
         }
       }
     },
-    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj": {
+    "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj",
+        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj",
         "projectName": "DocumentFileProcessing.Service",
-        "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj",
+        "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj",
         "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
-        "outputPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\obj\\",
+        "outputPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -224,14 +224,14 @@
         }
       }
     },
-    "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj": {
+    "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj",
+        "projectUniqueName": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj",
         "projectName": "DocumentFileProcessing",
-        "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj",
+        "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing\\DocumentFileProcessing.csproj",
         "packagesPath": "C:\\Users\\chikh\\.nuget\\packages\\",
-        "outputPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing\\obj\\",
+        "outputPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -248,17 +248,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj": {
-                "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj"
+              "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj": {
+                "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj"
               },
-              "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj": {
-                "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj"
+              "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj": {
+                "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj"
               },
-              "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj": {
-                "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj"
+              "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj": {
+                "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj"
               },
-              "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj": {
-                "projectPath": "C:\\KMData\\Respositories\\PDF\\UploadFileToDB\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj"
+              "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj": {
+                "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Service\\DocumentFileProcessing.Service.csproj"
               }
             }
           }
