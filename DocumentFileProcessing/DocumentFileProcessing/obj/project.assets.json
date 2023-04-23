@@ -1456,16 +1456,6 @@
           "bin/placeholder/DocumentFileProcessing.Data.dll": {}
         }
       },
-      "DocumentFileProcessing.DTO/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/DocumentFileProcessing.DTO.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DocumentFileProcessing.DTO.dll": {}
-        }
-      },
       "DocumentFileProcessing.Repo/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -4940,11 +4930,6 @@
       "path": "../DocumentFileProcessing.Data/DocumentFileProcessing.Data.csproj",
       "msbuildProject": "../DocumentFileProcessing.Data/DocumentFileProcessing.Data.csproj"
     },
-    "DocumentFileProcessing.DTO/1.0.0": {
-      "type": "project",
-      "path": "../DocumentFileProcessing.DTO/DocumentFileProcessing.DTO.csproj",
-      "msbuildProject": "../DocumentFileProcessing.DTO/DocumentFileProcessing.DTO.csproj"
-    },
     "DocumentFileProcessing.Repo/1.0.0": {
       "type": "project",
       "path": "../DocumentFileProcessing.Repo/DocumentFileProcessing.Repo.csproj",
@@ -4958,7 +4943,6 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "DocumentFileProcessing.DTO >= 1.0.0",
       "DocumentFileProcessing.Data >= 1.0.0",
       "DocumentFileProcessing.Repo >= 1.0.0",
       "DocumentFileProcessing.Service >= 1.0.0",
@@ -4996,9 +4980,6 @@
           "projectReferences": {
             "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj": {
               "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Data\\DocumentFileProcessing.Data.csproj"
-            },
-            "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj": {
-              "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.DTO\\DocumentFileProcessing.DTO.csproj"
             },
             "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj": {
               "projectPath": "C:\\KMData\\Respositories\\PDF\\DocumentFileRepo\\DocumentFileProcessing\\DocumentFileProcessing.Repo\\DocumentFileProcessing.Repo.csproj"

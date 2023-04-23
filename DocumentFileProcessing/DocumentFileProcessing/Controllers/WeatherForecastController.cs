@@ -7,6 +7,7 @@ using iText.Layout.Element;
 using iText.Kernel.Geom;
 using DocumentFileProcessing.Data.Entities.DocumentData;
 using System.IO;
+using Microsoft.AspNetCore.Hosting.Server;
 
 namespace DocumentFileProcessing.Controllers
 {
@@ -29,7 +30,7 @@ namespace DocumentFileProcessing.Controllers
         [HttpPost("[action]")]
         public async Task<IActionResult> AddImgToPdf(IFormFile imgFile, IFormFile files)
         {
-            //   var FileOutPut =  await _fileUploadRespository.CreateNewBlankfile("sad");
+ 
             var fileImgModel = new FileOnDataBaseModel();
             using (var dataStream = new MemoryStream())
             {

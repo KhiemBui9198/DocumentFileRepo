@@ -1,0 +1,15 @@
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\bin\Release\net6.0\DocumentFileProcessing.Data.exe
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\bin\Release\net6.0\DocumentFileProcessing.Data.deps.json
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\bin\Release\net6.0\DocumentFileProcessing.Data.runtimeconfig.json
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\bin\Release\net6.0\DocumentFileProcessing.Data.dll
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\bin\Release\net6.0\DocumentFileProcessing.Data.pdb
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\obj\Release\net6.0\DocumentFileProcessing.Data.csproj.AssemblyReference.cache
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\obj\Release\net6.0\DocumentFileProcessing.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\obj\Release\net6.0\DocumentFileProcessing.Data.AssemblyInfoInputs.cache
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\obj\Release\net6.0\DocumentFileProcessing.Data.AssemblyInfo.cs
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\obj\Release\net6.0\DocumentFileProcessing.Data.csproj.CoreCompileInputs.cache
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\obj\Release\net6.0\DocumentFileProcessing.Data.dll
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\obj\Release\net6.0\refint\DocumentFileProcessing.Data.dll
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\obj\Release\net6.0\DocumentFileProcessing.Data.pdb
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\obj\Release\net6.0\DocumentFileProcessing.Data.genruntimeconfig.cache
+C:\KMData\Respositories\PDF\DocumentFileRepo\DocumentFileProcessing\DocumentFileProcessing.Data\obj\Release\net6.0\ref\DocumentFileProcessing.Data.dll

@@ -10,6 +10,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="FileResult1\**" />
+    <Content Remove="FileResult1\**" />
+    <EmbeddedResource Remove="FileResult1\**" />
+    <None Remove="FileResult1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="itext7" Version="7.2.5" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
@@ -17,13 +24,14 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DocumentFileProcessing.Data\DocumentFileProcessing.Data.csproj" />
-    <ProjectReference Include="..\DocumentFileProcessing.DTO\DocumentFileProcessing.DTO.csproj" />
     <ProjectReference Include="..\DocumentFileProcessing.Repo\DocumentFileProcessing.Repo.csproj" />
     <ProjectReference Include="..\DocumentFileProcessing.Service\DocumentFileProcessing.Service.csproj" />
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Files\" />
     <Folder Include="FileResult\" />
+    <Folder Include="FileData\" />
   </ItemGroup>
 
 </Project>
